@@ -6,7 +6,7 @@
 </th>
 </tr>
 <tr>
-<td colspan="2"><a class="image" href="Salim_ali_mns.jpg"><img src="Salim_ali_mns.jpg" srcset="Salim_ali_mns.jpg" alt="Salim ali mns.jpg" width="220" height="293" data-file-width="429" data-file-height="572" /></a></td>
+<td colspan="2"><a class="image" href="220px-Salim_ali_mns.jpg"><img src="220px-Salim_ali_mns.jpg" srcset="220px-Salim_ali_mns.jpg" alt="Salim ali mns.jpg" width="220" height="293" data-file-width="429" data-file-height="572" /></a></td>
 </tr>
 <tr>
 <th scope="row">Born</th>
